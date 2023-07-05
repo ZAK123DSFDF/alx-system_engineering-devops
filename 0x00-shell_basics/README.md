@@ -1,1 +1,2 @@
-My second markdown
+#!/bin/bash
+echo "$(pwd)"
